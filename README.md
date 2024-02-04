@@ -1,13 +1,13 @@
-### SAMPLING ASSIGNMENT
+### CREDIT CARD PROBLEM USING SAMPLING
 
-1. Converted imbalanced dataset to balanced dataset using overfitting sampling technique using SMOTE.
-2. Used four different sampling techniques such as:
+1. Converted imbalanced dataset to balanced dataset using overfitting sampling technique using SMOTE. <br>
+2. Used four different sampling techniques such as: <br>
    a) Simple Random Sampling (S1)
    b) Stratified Sampling (S2)
    c) Cluster Sampling (S3)
    d) Systematic Sampling (S4)
 
-3. Applied five different models on each sample, such as:
+3. Applied five different models on each sample, such as: <br>
    a) Logistic Regression (LR)
    b) Naive Bayes Classifier (NB)
    c) Random Forest Classifier (RF)
