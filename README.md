@@ -2,17 +2,17 @@
 
 1. Converted imbalanced dataset to balanced dataset using overfitting sampling technique using SMOTE. <br>
 2. Used four different sampling techniques such as: <br>
-   a) Simple Random Sampling (S1)
-   b) Stratified Sampling (S2)
-   c) Cluster Sampling (S3)
-   d) Systematic Sampling (S4)
+   a) Simple Random Sampling (S1) <br>
+   b) Stratified Sampling (S2) <br>
+   c) Cluster Sampling (S3) <br>
+   d) Systematic Sampling (S4) <br>
 
 3. Applied five different models on each sample, such as: <br>
-   a) Logistic Regression (LR)
-   b) Naive Bayes Classifier (NB)
-   c) Random Forest Classifier (RF)
-   d) Decision Tree Classifier (DT)
-   e) K-Nearest Neighbours (KNN)
+   a) Logistic Regression (LR) <br>
+   b) Naive Bayes Classifier (NB) <br>
+   c) Random Forest Classifier (RF) <br>
+   d) Decision Tree Classifier (DT) <br>
+   e) K-Nearest Neighbours (KNN) <br>
 
 The Accuracy Results are summarized in the table below:
 
